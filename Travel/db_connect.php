@@ -1,5 +1,5 @@
 <?php
-	$db = mysqli_connect('localhost', 'aadamlue_travelu', 'travel', 'aadamlue_traveldb')
+	$db = mysqli_connect('localhost', 'user', 'pass', 'traveldb')
 		or die ("ERROR: connecting to mysql server!");
 	
 	
